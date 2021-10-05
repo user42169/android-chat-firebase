@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "710894227109",
+    "project_id": "web-messenger-f7c9a",
+    "storage_bucket": "web-messenger-f7c9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710894227109:android:b55e73fdf393337621874c",
+        "android_client_info": {
+          "package_name": "com.example.cloudchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710894227109-2q3mhh2l4rg9tio2ih105vjmid0m2r64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrghU7cYAOz_CDBlGEHHlMQUenN8MLjrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710894227109-2q3mhh2l4rg9tio2ih105vjmid0m2r64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
